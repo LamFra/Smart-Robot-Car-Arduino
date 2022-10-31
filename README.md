@@ -30,5 +30,5 @@ Basically it's possible to download files with the *.ino extension and try them 
 
 ## Authors
 
-  - **Francesca La Manna** - [Contact](f.lamanna5@studenti.unisa.it)
-  - **Gioacchino Caliendo** - [Contact](g.caliendo16@studenti.unisa.it)
+  - **Francesca La Manna** - f.lamanna5@studenti.unisa.it
+  - **Gioacchino Caliendo** - g.caliendo16@studenti.unisa.it
