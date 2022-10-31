@@ -8,19 +8,26 @@ Basically it's possible to download files with the *.ino extension and try them 
 
 ### Prerequisites
  
-- Smart Robot Car kit
+- Robot Car kit
 - Arduino Uno or other compatible with Arduino Uno
 - Bluetooth Module HC05
 - Motor Driver Controller L298N
 
-### Diagram Flow
+## Diagram Flow
 
+![architecture](https://github.com/LamFra/Smart-Robot-Car-Arduino/tree/blob/main/img/img.png?raw=true)
 
 
 ## Built With
 
   - [Arduino IDE](https://www.arduino.cc/en/software)
   - [Bluetooth Controller App](https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor)
+  
+## Future Developments
+
+- driving smart car movements through the use of an infrared sensor sensitive to black lines on a homogeneous background;
+- including a proximity sensor that will enable the smart car to recognize obstacles;
+- incorporating the MQTT protocol or the use of node red 
 
 ## Authors
 
