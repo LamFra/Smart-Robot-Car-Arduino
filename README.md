@@ -15,8 +15,7 @@ Basically it's possible to download files with the *.ino extension and try them 
 
 ## Diagram Flow
 
-![architecture](https://github.com/LamFra/Smart-Robot-Car-Arduino/tree/blob/main/img/img.png?raw=true)
-
+![diagram](https://github.com/LamFra/Smart-Robot-Car-Arduino/blob/main/img/img.png?raw=true)
 
 ## Built With
 
