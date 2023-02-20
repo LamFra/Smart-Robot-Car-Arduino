@@ -3,6 +3,7 @@
 Basically, this project is based on the construction of an intelligent car through the combination of the various components that enable basic operations that make it possible: going forward or backward with the car and turning left or right. This can all be managed through communication with the Bluetooth module to a device connected with an app for Android. Two modes have been devised:
  - the first mode allows a user to connect to the Bluetooth module with a dedicated app to be able to control the movements of the car 
  - the second mode is such that the car is able to follow a black line and stop the moment it encounters an obstacle. This is all through the use of specific sensors. 
+
 The common aspect is the presence of a gyroscope/accelerometer that can provide data to the wifi module, which in turn not only displays it on the screen graphically but also sends it to Blynk cloud.
 
 ## Getting Started
